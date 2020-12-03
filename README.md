@@ -16,3 +16,8 @@ Consequently, the versus has been splitten between two distinct stages:
 2) Multi-Object Tracking Algorithms Versus
 
 Lastly, The metric employed for the versus came from the MOT Challange paper.
+
+> **Repository Structure:**
+>
+> * `$HOME/code`, code of the project.
+> * `$HOME/report`, report of the project.
